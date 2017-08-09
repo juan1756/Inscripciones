@@ -31,8 +31,6 @@ build
 *.ipr
 *.iws
 out
-.classpath
-.project
 .settings/
 target/
 bin/
